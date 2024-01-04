@@ -11,3 +11,6 @@ div{
         font-style: inherit;
         align-content: center;
     }
+    img{
+        width: 200px;
+    }
